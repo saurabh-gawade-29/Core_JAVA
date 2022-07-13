@@ -1,0 +1,8 @@
+1. Unary Operator
+2. Arithmetic Operator
+3. Assignment Operator
+4. Comparison Operator
+5. Logical Operator
+6. Bitwise Operator
+7. Shift Operator + Advanced
+8. Ternary Operator
