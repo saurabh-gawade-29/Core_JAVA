@@ -1,0 +1,24 @@
+Basic Program
+
+1. SwapNumber
+2. EvenAndOdd
+3. LargestNumber
+4. Leap Year
+5. Leap Year Scanner + Moderate Code
+6. Vowel Or Consonant
+
+Pattern Program
+
+1. Right Triangle Star Pattern:
+2. Left Triangle
+
+
+Date And Time Format
+
+1. Date Time Class Format
+
+
+Moderate Logic
+
+1. Armstrong Number
+2. Prime Number or Not
