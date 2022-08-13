@@ -10,6 +10,7 @@ class Dog2 extends Animal2{
     Dog2(){
         super();
         System.out.println("dog is created");
+//        super.test();
     }
 }
 

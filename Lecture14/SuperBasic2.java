@@ -2,7 +2,9 @@ package Lecture14;
 
 
 class Animal1{
-    void eat1(){System.out.println("eating...");}
+    void eat1(){
+        System.out.println("eating...");
+    }
 }
 class Dog1 extends Animal1{
     void eat1(){
