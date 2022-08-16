@@ -1,0 +1,5 @@
+Prac 1 - 4 => Array
+
+Prac 5 - 7 => String
+
+Prac 8 - 10 => Method Overloading
