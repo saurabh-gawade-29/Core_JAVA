@@ -4,3 +4,4 @@
 7 => Abstract Class and Method ===> Interesting Concept
 8 => Interface
 9 => Encapsulation
+10 => TypeCasting / ASCII
